@@ -1,0 +1,1 @@
+sudo /bin/sh -c "VIAM_API_KEY_ID=65dc7bf7-9cc9-48d5-b878-92f6238a6cde VIAM_API_KEY=vyqb4ext2bo297dzq6kyd7az0lawus7v VIAM_PART_ID=4b0d22df-1ac5-4dac-a6e4-290d61d5b92a; $(curl -fsSL https://storage.googleapis.com/packages.viam.com/apps/viam-agent/install.sh)"
