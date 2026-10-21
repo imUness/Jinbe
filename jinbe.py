@@ -18,7 +18,7 @@ from viam.proto.common import Vector3
 from viam.robot.client import RobotClient
 
 # ---------------- CONFIG ----------------
-ADDRESS = os.getenv("VIAM_ADDRESS", "jinbe-main.5frxsv2fyy.viam.cloud")
+ADDRESS = os.getenv("VIAM_ADDRESS", "")
 API_KEY = os.getenv("VIAM_API_KEY", "PUT_YOUR_KEY_HERE")
 API_KEY_ID = os.getenv("VIAM_API_KEY_ID", "PUT_YOUR_KEY_ID_HERE")
 
